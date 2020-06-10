@@ -1,0 +1,6 @@
+{
+  "name": "iOS Stickers Pack",
+  "tagline": "Guide",
+  "body": "> require iOS 10 or later\r\n\r\n### Adding new target\r\nBy clicking on **Xcode** tab _Editor -> Add Target -> iOS -> Sticker Pack App_\r\n\r\n![](https://git.playflock.com/storage/user/12/files/92309b48-b523-11e8-8d8e-cc2da48b7198)\r\n\r\n### Version Number\r\n> General section\r\n\r\nCheck that **Version** and **Build** number equal versions of  project **Unity-iPhone**\r\n\r\n![](https://git.playflock.com/storage/user/12/files/e2b23bd8-b525-11e8-9d19-e4c3a6a328bf)\r\n\r\n### Paste stickers pack icons\r\n> General section\r\n\r\nSetup **Sticker Icons Source** as show below\r\n\r\n![](https://git.playflock.com/storage/user/12/files/d4d72fc0-b528-11e8-81c8-026c1972971c)\r\n\r\nPaste images to **MessageAppIcon** and **StickerPack** from [archive](https://git.playflock.com/MobileDev/iOSStickersPack/files/4/Stickers.zip)\r\n\r\n![](https://git.playflock.com/storage/user/12/files/90f433be-b52a-11e8-9ac3-24e44089987c)\r\n\r\n### Unity Reassembly\r\nTo avoid repeat all steps try build Unity iOS project in **Append Mode**\r\n\r\n![](https://git.playflock.com/storage/user/12/files/0d7e8a5e-b52d-11e8-8679-6a6fca1c2ff2)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
